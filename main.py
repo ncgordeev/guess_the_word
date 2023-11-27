@@ -2,7 +2,9 @@ from config import WORDS_PATH, HISTORY_PATH
 from functions.functions import load_data, mixing_word, save_statistic, get_statistic
 
 if __name__ == '__main__':
-
+    """
+    Main function for this game
+    """
     user_name = input("Please, enter your name ").capitalize()
     print(f"Hi, {user_name}! Let's start! Guess the word: ")
     user_score = 0

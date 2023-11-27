@@ -1,0 +1,1 @@
+In this game you get word with mixed alphas and you need to guess this word. If your answer is right you get 10 points or if your answer is wrong you get zero points. When all the words have been solved game stops.
